@@ -15,7 +15,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Lecture 9: Spatial attribute data and spatial autocorrelation
 -   Lecture 10: Regression and correlation analysis
 -   Lecture 11: Spatial regression and geographically weighted regression
--   Lecture 12: Spatial machine learning and geoAI
+-   Lecture 12: Statistical learning and spatial interpolation/prediction
 
 **Practicals**
 
@@ -27,7 +27,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Practical 6: Imagery classification
 -   Practical 7: Statistical testing w environmental data
 -   Practical 8: Spatial and geographically weighted regression
--   Practical 9: Spatial machine learning
+-   Practical 9: Statistical learning w environmental/spatial data
 
 **Lab assignments**
 
@@ -38,4 +38,4 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Lab 4: ANOVA, contingency table, raster analysis
 -   Lab 5: Spatial autocorrelation and correlation analysis
 -   Lab 6: Spatial and geographically weighted regression
--   Lab 7: Spatial interpolation (extra credit)
+-   Lab 7: Statistical learning and spatial prediction (extra credit)
