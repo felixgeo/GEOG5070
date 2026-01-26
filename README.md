@@ -6,7 +6,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 
 -   [Lecture 1: Introduction](Lectures/Lecture1_Introduction.html) and the role of statistics in GIScience
 -   [Lecture 2: Data types and characteristics of geospatial data](Lectures/Lecture2_DataTypes_Characteristics.html)
--   Lecture 3: Descriptive statistics and central tendency
+-   [Lecture 3: Descriptive statistics and central tendency](Lectures/Lecture3_CentralTendencyDescriptiveStats.html)
 -   Lecture 4: Descriptive spatial statistics
 -   Lecture 5: Point pattern analysis
 -   Lecture 6: Probability distribution
