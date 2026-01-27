@@ -20,7 +20,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 **Practicals**
 
 -   [Practical 1: Getting Started with R studio and data wrangling](Practicals/1_Practical.html)
--   Practical 2: Descriptive statistics, pivoting, and basic visualization
+-   [Practical 2: Descriptive statistics, plots/maps, coordinate systems](Practicals/2_Practical.html)
 -   Practical 3: Spatial data basics and mapping
 -   Practical 4: Geospatial analysis of spatial data
 -   Practical 5: Raster analysis
