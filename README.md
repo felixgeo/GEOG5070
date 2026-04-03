@@ -26,9 +26,8 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 5: Raster analysis](Practicals/5_Practical.html)
 -   [Practical 6: Imagery classification](Practicals/6_Practical_Image_Analysis.html)
 -   [Practical 7: Statistical testing w environmental data](Practicals/7_Practical.html)
--   Practical 8: Statistical modeling of environmental data
--   Practical 9: Spatial and geographically weighted regression
--   Practical 10: Spatial prediction w random forest and ML
+-   Practical 8: Statistical interpolation
+-   Practical 9: Statistical modeling
 
 **Lab assignments**
 
