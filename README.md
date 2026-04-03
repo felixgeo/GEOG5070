@@ -13,9 +13,9 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lecture 7: Sampling, confidence intervals, and hypothesis testing](Lectures/Lecture7_Sampling_CIs_OneSample.html)
 -   [Lecture 8: Two-sample t-test, ANOVA, and chi-square](Lectures/Lecture8_Two_Sample_Test_ANOVA.html)
 -   [Lecture 9: Correlation and spatial autocorrelation](Lectures/Lecture9_Correlation_SpatialAutocorrelation.html)
--   Lecture 10: Regression and correlation analysis
--   Lecture 11: Spatial regression and geographically weighted regression
--   Lecture 12: Statistical learning and spatial interpolation/prediction
+-   Lecture 10: Spatial interpolation
+-   Lecture 11: Regression, spatial regression and geographically weighted regression
+-   Lecture 12: Statistical learning, random forest and spatial prediction
 
 **Practicals**
 
