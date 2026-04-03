@@ -28,7 +28,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 7: Statistical testing w environmental data](Practicals/7_Practical.html)
 -   Practical 8: Statistical modeling of environmental data
 -   Practical 9: Spatial and geographically weighted regression
--   Practical 10: Statistical learning w environmental/spatial data
+-   Practical 10: Spatial prediction w random forest and ML
 
 **Lab assignments**
 
