@@ -37,5 +37,4 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lab 3: Probability, vector analysis and confidence intervals](Labs/Lab3_template.html)
 -   [Lab 4: ANOVA, contingency table, raster analysis](Labs/Lab4_template.html)
 -   [Lab 5: Spatial autocorrelation and correlation analysis](Labs/Lab5_template.html)
--   Lab 6: Spatial and geographically weighted regression
--   Lab 7: Statistical learning and spatial prediction (extra credit)
+-   [Lab 6: Spatial interpolation, OLS regression, spatial and geographically weighted regression](Labs/Lab6_template.html)
