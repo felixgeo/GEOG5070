@@ -15,7 +15,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lecture 9: Correlation and spatial autocorrelation](Lectures/Lecture9_Correlation_SpatialAutocorrelation.html)
 -   [Lecture 10: Spatial interpolation](Lectures/Lecture10_Spatial_Interpolation.html)
 -   [Lecture 11: Regression, spatial regression and geographically weighted regression](Lectures/Lecture11_Regression_Spatial_GWR.html)
--   Lecture 12: Statistical learning, random forest and spatial prediction
+-   [Lecture 12: Statistical learning, random forest and spatial prediction](Lectures/Lecture12_Statistical_Learning_RandomForest.html)
 
 **Practicals**
 
