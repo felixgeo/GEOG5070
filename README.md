@@ -27,7 +27,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 6: Imagery classification](Practicals/6_Practical_Image_Analysis.html)
 -   [Practical 7: Statistical testing w environmental data](Practicals/7_Practical.html)
 -   [Practical 8: Spatial interpolation](Practicals/8_Practical_Interpolation.html)
--   Practical 9: Statistical modeling
+-   [Practical 9: Statistical modeling](Practicals/9_Practical.html)
 
 **Lab assignments**
 
