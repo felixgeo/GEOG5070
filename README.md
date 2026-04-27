@@ -1,6 +1,6 @@
 # GEOG5070/4070 Spatial Analysis and Modeling
 
-The repo hosts lecture slides, practicals, and lab assignments presented in the Spatial Analysis and Modeling course during the spring semester of 2026 at the University of Idaho (UI hereafter). The syllabus and the tentative schedule are both hosted on UI's [canvas](https://canvas.uidaho.edu/) site.
+The repo hosts lecture slides, practicals, and lab assignments presented in the Spatial Analysis and Modeling course during the spring semester of 2026 at the University of Idaho (UI hereafter). The syllabus and the tentative schedule are both hosted on UI's [Canvas](https://canvas.uidaho.edu/) site.
 
 **Lecture notes**
 
